@@ -1,0 +1,22 @@
+{
+  "name": "fourpan",
+  "version": "1.0.0",
+  "description": "Create a focus overlay",
+  "main": "jquery.fourpan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rramo012/fourpan.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "Rafael Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rramo012/fourpan/issues"
+  },
+  "homepage": "https://github.com/rramo012/fourpan#readme"
+}
